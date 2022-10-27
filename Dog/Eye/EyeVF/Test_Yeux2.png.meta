@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 602ae7832b86fd741a83de856c579f4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Test_Yeux2_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1845
+        width: 216
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde303f26742ef46973d3d07f9b77f1
+      internalID: 1517573786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1853
+        width: 204
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809bba84b232e340b5cf774bb7a310a
+      internalID: 1517411469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1858
+        width: 208
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe42df044a360c41a10fac60e2e5178
+      internalID: 2111352916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_4
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1858
+        width: 209
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf9c537cbdb8e418a77c39747c684e
+      internalID: 1334884160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_5
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1854
+        width: 215
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d45c1223b16cd4e97e714f94df2313
+      internalID: -1582776725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1484
+        width: 214
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f7482d099e334583f1b1aa756b566
+      internalID: -946627796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_12
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1494
+        width: 222
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9057dff415794d9362fbba551a83b
+      internalID: 281930023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1489
+        width: 224
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5152b681683a7c43a7e60c60b09a4c1
+      internalID: -1245316827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1493
+        width: 215
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1fb0a6e86d504e960355ad91f44c8
+      internalID: 31010749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_15
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1493
+        width: 217
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8e970682c02f43a061bf40b51acfe
+      internalID: 1809038600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1122
+        width: 231
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a362160afd1a00642834c39040bc2003
+      internalID: 2141433675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1128
+        width: 226
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f3a3b9409f3d4fb2f2fd044ebf19c
+      internalID: 121374523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1122
+        width: 226
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1a8bd709b3c64d9b48c9fc16a5267
+      internalID: 1602028166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_22
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1133
+        width: 213
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b8c434341d4248a30b4fb62491154
+      internalID: 1977828966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_23
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1124
+        width: 222
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7abf6a5c14b5742955d4c67e8514b7
+      internalID: -695504310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 687
+        width: 223
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd75249d84d9b46866f8d2f60ad1d1
+      internalID: -1456633034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 691
+        width: 212
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe2892f0a03b4489549eb08b37db12
+      internalID: -92500728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 692
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d334c60cfe87e645a840c128f7966b9
+      internalID: -582101215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_28
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 694
+        width: 216
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806a5d869ca6a94b93ccabeec17163c
+      internalID: -1455398622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_30
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 689
+        width: 216
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8681c22c8d8b044ab843f8bf95b875b
+      internalID: 380900710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 329
+        width: 215
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a992523fbc4c7459bf257f422d911d
+      internalID: 1158505657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Yeux2_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 326
+        width: 211
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f83b9937c10154d846f8274678a2b5
+      internalID: -785041447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Test_Yeux2_33: -785041447
+      Test_Yeux2_0: 1517573786
+      Test_Yeux2_17: -983202684
+      Test_Yeux2_9: -1164767224
+      Test_Yeux2_1: -2147001936
+      Test_Yeux2_15: 1809038600
+      Test_Yeux2_4: 1334884160
+      Test_Yeux2_11: -213723042
+      Test_Yeux2_19: 2141433675
+      Test_Yeux2_10: -946627796
+      Test_Yeux2_29: 1056125817
+      Test_Yeux2_23: -695504310
+      Test_Yeux2_8: -104285266
+      Test_Yeux2_13: -1245316827
+      Test_Yeux2_26: -92500728
+      Test_Yeux2_30: 380900710
+      Test_Yeux2_22: 1977828966
+      Test_Yeux2_7: -878494212
+      Test_Yeux2_21: 1602028166
+      Test_Yeux2_16: 385761619
+      Test_Yeux2_6: 1441357632
+      Test_Yeux2_25: -1456633034
+      Test_Yeux2_5: -1582776725
+      Test_Yeux2_14: 31010749
+      Test_Yeux2_20: 121374523
+      Test_Yeux2_2: 1517411469
+      Test_Yeux2_31: 1614907608
+      Test_Yeux2_24: -1103470077
+      Test_Yeux2_3: 2111352916
+      Test_Yeux2_18: -2598660
+      Test_Yeux2_27: -582101215
+      Test_Yeux2_32: 1158505657
+      Test_Yeux2_28: -1455398622
+      Test_Yeux2_12: 281930023
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
